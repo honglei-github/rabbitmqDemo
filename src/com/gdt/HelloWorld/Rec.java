@@ -20,6 +20,19 @@ import com.rabbitmq.client.ShutdownSignalException;
  * @version
  * 
  */
+
+/**   
+* 项目名称：rabbitmqDemo   
+* 类名称：Rec   
+* 类描述：   
+* 创建人：shl   
+* 创建时间：2017年9月25日 上午10:58:27   
+* 修改人：shl   
+* 修改时间：2017年9月25日 上午10:58:27   
+* 修改备注：   
+* @version    
+*    
+*/
 public class Rec {
 	private final static String QUEUE_NAME = "hello";
 
